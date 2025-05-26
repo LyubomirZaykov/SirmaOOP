@@ -1,0 +1,14 @@
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.exe
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.deps.json
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.dll
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.pdb
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.dll
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\refint\InventoryManagmentSystem.dll
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.pdb
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\Inheritance_Interfaces\InventoryManagmentSystem\obj\Debug\net8.0\ref\InventoryManagmentSystem.dll

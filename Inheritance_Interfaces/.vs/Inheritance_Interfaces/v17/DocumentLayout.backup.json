@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\fragileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\fragileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\models\\electronicsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\models\\electronicsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\interfaces\\icategorizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\interfaces\\icategorizable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\interfaces\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\interfaces\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\interfaces\\iperishable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\interfaces\\iperishable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\inventorymanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\inventorymanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\inheritance_interfaces\\inventorymanagmentsystem\\interfaces\\isellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D012A5EF-D7AE-42D3-990B-54ABEB942DB9}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\interfaces\\isellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Orders.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Orders.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:53:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Inventory.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Inventory.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Inventory.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:04:39.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Users.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Users.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Users.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:45:08.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\User.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:25:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Order.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Order.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:22:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Payment.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:22:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FragileItem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\FragileItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\FragileItem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\FragileItem.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\FragileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:32:25.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroceryItem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\GroceryItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\GroceryItem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\GroceryItem.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\GroceryItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAADJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:56:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElectronicsItem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\ElectronicsItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\ElectronicsItem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\ElectronicsItem.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\ElectronicsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:43:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryManagmentSystem.csproj",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\InventoryManagmentSystem.csproj",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\InventoryManagmentSystem.csproj",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\InventoryManagmentSystem.csproj",
+              "RelativeToolTip": "InventoryManagmentSystem\\InventoryManagmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T11:13:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\InventoryItem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\InventoryItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:33:30.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Models\\Item.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Models\\Item.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Models\\Item.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:13:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISellable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\ISellable.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Interfaces\\ISellable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\ISellable.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Interfaces\\ISellable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:12:27.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPerishable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IPerishable.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Interfaces\\IPerishable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IPerishable.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Interfaces\\IPerishable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:10:52.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBreakable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IBreakable.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Interfaces\\IBreakable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IBreakable.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Interfaces\\IBreakable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:07:52.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategorizable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\ICategorizable.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Interfaces\\ICategorizable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\ICategorizable.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Interfaces\\ICategorizable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:05:46.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IItem.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Interfaces\\IItem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Interfaces\\IItem.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Interfaces\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:03:43.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Inheritance_Interfaces\\InventoryManagmentSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:03:20.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

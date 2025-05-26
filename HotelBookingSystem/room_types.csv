@@ -1,0 +1,5 @@
+Type,PricePerNight,CancellationFee,Amenities,MaxOccupancy
+Deluxe,150,20,TV;WiFi;Minibar,2
+Suite,250,50,TV;WiFi;Minibar;Jacuzzi,4
+Single,80,10,TV;WiFi,1
+Double,120,15,TV;WiFi,2

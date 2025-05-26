@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\hotelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\hotelsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\hotelbookingsystem\\hotelbookingsystem\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7597E37-2F6C-45D7-A205-D47D429B50D7}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelSystem.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\HotelSystem.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\HotelSystem.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\HotelSystem.cs",
+              "RelativeToolTip": "HotelBookingSystem\\HotelSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:22:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\RoomType.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\RoomType.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\RoomType.cs",
+              "RelativeToolTip": "HotelBookingSystem\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:12:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Booking.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Booking.cs",
+              "RelativeToolTip": "HotelBookingSystem\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:18.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\User.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\User.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\User.cs",
+              "RelativeToolTip": "HotelBookingSystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:52:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Room.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Room.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Room.cs",
+              "RelativeToolTip": "HotelBookingSystem\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:51:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\HotelBookingSystem\\HotelBookingSystem\\Program.cs",
+              "RelativeToolTip": "HotelBookingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:47.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

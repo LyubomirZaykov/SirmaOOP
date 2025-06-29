@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\isender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\isender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\dependencyinversionpriciple\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBC8F90-BA1E-4712-AD14-D7974480510B}|DependencyInversionPriciple\\DependencyInversionPriciple.csproj|solutionrelative:dependencyinversionpriciple\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|solutionrelative:interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\interfacesegregation\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|solutionrelative:interfacesegregation\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\interfacesegregation\\smartthermostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|solutionrelative:interfacesegregation\\smartthermostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\interfacesegregation\\itemperaturecontrollable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|solutionrelative:interfacesegregation\\itemperaturecontrollable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\interfacesegregation\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97061C5-9EDE-4811-A549-CBAF7385A0BF}|InterfaceSegregation\\InterfaceSegregation.csproj|solutionrelative:interfacesegregation\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\liskovsubstitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|solutionrelative:liskovsubstitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\liskovsubstitution\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|solutionrelative:liskovsubstitution\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\liskovsubstitution\\banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|solutionrelative:liskovsubstitution\\banktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\liskovsubstitution\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|solutionrelative:liskovsubstitution\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\liskovsubstitution\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D331C44-50B7-4CAE-94C8-45B34E6D65C4}|LiskovSubstitution\\LiskovSubstitution.csproj|solutionrelative:liskovsubstitution\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\seasondiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\seasondiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\seniordiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\seniordiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\openclosedprinciple\\studentdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B975A59-2277-4977-AF2C-90A70FC4CBD6}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\studentdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\singleresponsibilityprinciple\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B580DC-4C60-446F-8FE7-19D43590B397}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\solidprinciples_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|solutionrelative:solidprinciples_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\solidprinciples_task1\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|solutionrelative:solidprinciples_task1\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\solidprinciples_task1\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|solutionrelative:solidprinciples_task1\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\solidprinciples_task1\\lampbulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|solutionrelative:solidprinciples_task1\\lampbulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\solidprinciples\\solidprinciples_task1\\iswitchabledevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF7174B-D903-4D72-A50C-803553C05A4C}|SolidPrinciples_Task1\\SolidPrinciples_Task1.csproj|solutionrelative:solidprinciples_task1\\iswitchabledevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\PdfGenerator.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\PdfGenerator.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\PdfGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:13:37.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISender.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\ISender.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\ISender.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\ISender.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\ISender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:12:07.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenerator.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\IGenerator.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\IGenerator.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\IGenerator.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\IGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:11:28.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\Program.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:09:48.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\SmartLight.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation\\SmartLight.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\SmartLight.cs",
+              "RelativeToolTip": "InterfaceSegregation\\SmartLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:00:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartThermostate.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\SmartThermostate.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation\\SmartThermostate.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\SmartThermostate.cs",
+              "RelativeToolTip": "InterfaceSegregation\\SmartThermostate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:58:15.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITemperatureControllable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\ITemperatureControllable.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation\\ITemperatureControllable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\ITemperatureControllable.cs",
+              "RelativeToolTip": "InterfaceSegregation\\ITemperatureControllable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:57:22.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation\\ISwitchable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\ISwitchable.cs",
+              "RelativeToolTip": "InterfaceSegregation\\ISwitchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:56:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\InterfaceSegregation\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:52:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankTransfer.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\BankTransfer.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitution\\BankTransfer.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\BankTransfer.cs",
+              "RelativeToolTip": "LiskovSubstitution\\BankTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:33:47.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\CreditCard.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitution\\CreditCard.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\CreditCard.cs",
+              "RelativeToolTip": "LiskovSubstitution\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:31:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRefundable.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\IRefundable.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitution\\IRefundable.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\IRefundable.cs",
+              "RelativeToolTip": "LiskovSubstitution\\IRefundable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:30:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitution\\IPaymentMethod.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\IPaymentMethod.cs",
+              "RelativeToolTip": "LiskovSubstitution\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:29:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Order.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\Order.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Order.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:50:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\PaymentProcessor.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\PaymentProcessor.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:55:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\OrderProcessor.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\OrderProcessor.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:48:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordGenerator.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\WordGenerator.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\WordGenerator.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\WordGenerator.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\WordGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:14:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\EmailSender.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\EmailSender.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:15:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPriciple\\ReportGenerator.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\DependencyInversionPriciple\\ReportGenerator.cs",
+              "RelativeToolTip": "DependencyInversionPriciple\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:16:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitution\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\LiskovSubstitution\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:29:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\DiscountService.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\DiscountService.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\DiscountService.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:25:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SeasonDiscount.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\SeasonDiscount.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\SeasonDiscount.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\SeasonDiscount.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\SeasonDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:24:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeniorDiscount.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\SeniorDiscount.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\SeniorDiscount.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\SeniorDiscount.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\SeniorDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:23:24.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentDiscount.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\StudentDiscount.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\StudentDiscount.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\StudentDiscount.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\StudentDiscount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:22:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\IDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\IDiscountStrategy.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\IDiscountStrategy.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\IDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:21:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\OpenClosedPrinciple\\Program.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:14:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Notifier.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Notifier.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\Notifier.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Notifier.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\Notifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:57:42.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderValidator.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\OrderValidator.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\OrderValidator.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\OrderValidator.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\OrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:48:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeToolTip": "SingleResponsibilityPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:35:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Fan.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples_Task1\\Fan.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Fan.cs",
+              "RelativeToolTip": "SolidPrinciples_Task1\\Fan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:49:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Button.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples_Task1\\Button.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Button.cs",
+              "RelativeToolTip": "SolidPrinciples_Task1\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:46:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LampBulb.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\LampBulb.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples_Task1\\LampBulb.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\LampBulb.cs",
+              "RelativeToolTip": "SolidPrinciples_Task1\\LampBulb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:44:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISwitchableDevice.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\ISwitchableDevice.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples_Task1\\ISwitchableDevice.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\ISwitchableDevice.cs",
+              "RelativeToolTip": "SolidPrinciples_Task1\\ISwitchableDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:43:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples_Task1\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\SolidPrinciples\\SolidPrinciples_Task1\\Program.cs",
+              "RelativeToolTip": "SolidPrinciples_Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:26:41.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

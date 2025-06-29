@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\bin\Debug\net8.0\DependencyInversionPriciple.exe
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\bin\Debug\net8.0\DependencyInversionPriciple.deps.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\bin\Debug\net8.0\DependencyInversionPriciple.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\bin\Debug\net8.0\DependencyInversionPriciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\bin\Debug\net8.0\DependencyInversionPriciple.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\refint\DependencyInversionPriciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\DependencyInversionPriciple.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\DependencyInversionPriciple\obj\Debug\net8.0\ref\DependencyInversionPriciple.dll

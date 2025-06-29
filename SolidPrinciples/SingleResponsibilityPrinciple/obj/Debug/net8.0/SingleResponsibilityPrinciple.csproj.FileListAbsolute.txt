@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.exe
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.deps.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\SingleResponsibilityPrinciple.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\SingleResponsibilityPrinciple.dll

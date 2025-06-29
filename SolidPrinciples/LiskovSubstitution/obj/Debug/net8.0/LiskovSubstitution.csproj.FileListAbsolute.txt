@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.exe
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.deps.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\bin\Debug\net8.0\LiskovSubstitution.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\refint\LiskovSubstitution.dll
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.pdb
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\LiskovSubstitution.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\SolidPrinciples\LiskovSubstitution\obj\Debug\net8.0\ref\LiskovSubstitution.dll

@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\bin\Debug\net8.0\ReplaceWord.exe
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\bin\Debug\net8.0\ReplaceWord.deps.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\bin\Debug\net8.0\ReplaceWord.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\bin\Debug\net8.0\ReplaceWord.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\bin\Debug\net8.0\ReplaceWord.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\refint\ReplaceWord.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ReplaceWord.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\ReplaceWord\obj\Debug\net8.0\ref\ReplaceWord.dll

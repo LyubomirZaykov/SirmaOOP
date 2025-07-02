@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D594CFA-D2D9-49B1-AA6C-C60BAC3EA91C}|ReplaceWord\\ReplaceWord.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\stream\u0026files\\replaceword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D594CFA-D2D9-49B1-AA6C-C60BAC3EA91C}|ReplaceWord\\ReplaceWord.csproj|solutionrelative:replaceword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDC3E4D3-BD50-48F4-83CF-E243B9938665}|CharacterCounting\\CharacterCounting.csproj|d:\\engineering\\programming\\c#\\sirmaoop\\stream\u0026files\\charactercounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDC3E4D3-BD50-48F4-83CF-E243B9938665}|CharacterCounting\\CharacterCounting.csproj|solutionrelative:charactercounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,24 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\CharacterCounting\\Program.cs",
-              "RelativeDocumentMoniker": "CharacterCounting\\Program.cs",
-              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\CharacterCounting\\Program.cs",
-              "RelativeToolTip": "CharacterCounting\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\ReplaceWord\\Program.cs",
+              "RelativeDocumentMoniker": "ReplaceWord\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\ReplaceWord\\Program.cs",
+              "RelativeToolTip": "ReplaceWord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:50:44.388Z",
+              "WhenOpened": "2025-07-02T15:57:32.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\CharacterCounting\\Program.cs",
+              "RelativeDocumentMoniker": "CharacterCounting\\Program.cs",
+              "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\CharacterCounting\\Program.cs",
+              "RelativeToolTip": "CharacterCounting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:50:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\Stream\u0026Files\\Program.cs",
               "RelativeDocumentMoniker": "Stream\u0026Files\\Program.cs",
               "ToolTip": "D:\\engineering\\programming\\C#\\SirmaOOP\\Stream\u0026Files\\Stream\u0026Files\\Program.cs",
               "RelativeToolTip": "Stream\u0026Files\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAIwEkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwEkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T18:18:54.385Z",
               "EditorCaption": ""

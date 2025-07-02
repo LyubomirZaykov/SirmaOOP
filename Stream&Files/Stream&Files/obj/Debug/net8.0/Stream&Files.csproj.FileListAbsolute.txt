@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\bin\Debug\net8.0\Stream&Files.exe
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\bin\Debug\net8.0\Stream&Files.deps.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\bin\Debug\net8.0\Stream&Files.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\bin\Debug\net8.0\Stream&Files.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\bin\Debug\net8.0\Stream&Files.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\refint\Stream&Files.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\Stream&Files.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\Stream&Files\obj\Debug\net8.0\ref\Stream&Files.dll

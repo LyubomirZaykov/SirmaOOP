@@ -1,0 +1,15 @@
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\bin\Debug\net8.0\CharacterCounting.exe
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\bin\Debug\net8.0\CharacterCounting.deps.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\bin\Debug\net8.0\CharacterCounting.runtimeconfig.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\bin\Debug\net8.0\CharacterCounting.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\bin\Debug\net8.0\CharacterCounting.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.AssemblyInfoInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.AssemblyInfo.cs
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.csproj.CoreCompileInputs.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.sourcelink.json
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\refint\CharacterCounting.dll
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.pdb
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\CharacterCounting.genruntimeconfig.cache
+D:\engineering\programming\C#\SirmaOOP\Stream&Files\CharacterCounting\obj\Debug\net8.0\ref\CharacterCounting.dll
